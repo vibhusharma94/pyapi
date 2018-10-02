@@ -1,0 +1,30 @@
+HTTP_STATUS_200 = 200
+HTTP_STATUS_201 = 201
+HTTP_STATUS_204 = 204
+HTTP_STATUS_400 = 400
+HTTP_STATUS_401 = 401
+HTTP_STATUS_403 = 403
+HTTP_STATUS_404 = 404
+HTTP_STATUS_405 = 405
+HTTP_STATUS_406 = 406
+HTTP_STATUS_500 = 500
+HTTP_STATUS_501 = 501
+HTTP_STATUS_577 = 577
+
+
+STATUS_MAP = {
+        HTTP_STATUS_200: "200 OK",
+        HTTP_STATUS_201: "201 Created",
+        HTTP_STATUS_204: "204 No Content",       
+        HTTP_STATUS_400: "400 Bad Request",
+        HTTP_STATUS_401: "401 Unauthorized",
+        HTTP_STATUS_403: "403 Forbidden",
+        HTTP_STATUS_404: "404 Not Found",
+        HTTP_STATUS_405: "405 Method Not Allowed",
+        HTTP_STATUS_406: "406 Not Acceptable",
+        HTTP_STATUS_500: "500 Internal Server Error",
+        HTTP_STATUS_501: "501 Not Implemented",
+        HTTP_STATUS_577: "577 Unknown Status",
+}
+
+

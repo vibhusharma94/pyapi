@@ -1,0 +1,6 @@
+POSTGRES_USER=hellofresh
+POSTGRES_PASSWORD=hellofresh
+POSTGRES_DB=hellofresh
+POSTGRES_HOST=db
+deploy=prod
+

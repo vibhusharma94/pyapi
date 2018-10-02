@@ -1,0 +1,22 @@
+### OSX ###
+.DS_Store
+.coverage
+*.db
+
+
+### Python ###
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+ev/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
